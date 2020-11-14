@@ -2,7 +2,13 @@
 title: Michael P. Huynh
 role: Graduate Student Researcher
 bio: ""
-interests: []
+interests:
+  - Asian and Pacific Islander communities
+  - Chronic disease prevention
+  - Immigrant and refugee populations
+  - Mental health
+  - Quantitative research methods
+  - Social epidemiology
 social:
   - icon: envelope
     icon_pack: fas
