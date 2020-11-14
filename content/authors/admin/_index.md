@@ -23,6 +23,9 @@ social:
   - link: https://www.linkedin.com/in/mphuynh/
     icon_pack: fab
     icon: linkedin
+  - icon_pack: fab
+    icon: orcid
+    link: https://orcid.org/0000-0002-5147-8528
 organizations:
   - name: Stanford University
     url: ""
