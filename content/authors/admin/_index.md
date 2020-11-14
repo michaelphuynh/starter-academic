@@ -27,19 +27,19 @@ social:
     icon: orcid
     link: https://orcid.org/0000-0002-5147-8528
 organizations:
-  - name: Stanford University
-    url: ""
+  - name: University of California, Irvine
+    url: http://publichealth.uci.edu/ph/_home/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Public Health
+      institution: University of California, Irvine
+      year: ""
+    - course: MPH in Epidemiology/Biostatistics
+      institution: University of California, Berkeley
+      year: 2018
+    - course: BS in Human Biology and Society
+      institution: University of California, Los Angeles
+      year: 2016
 email: ""
 superuser: true
 user_groups:
