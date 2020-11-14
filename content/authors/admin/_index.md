@@ -1,6 +1,7 @@
 ---
 title: Michael P. Huynh
 role: Graduate Student Researcher
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Asian and Pacific Islander communities
